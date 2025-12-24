@@ -1,2 +1,9 @@
 # automotive-embedded-projects
-This repository contains automotive embedded systems projects focused on Electric Vehicle (EV) applications using ESP32, Embedded C, FreeRTOS, and CAN communication.  Author: Samarth M Domain: Automotive Embedded &amp; EV Systems
+## Skills Demonstrated
+- Embedded C Programming
+- ESP32 & ESP-IDF
+- FreeRTOS (Tasks, Queues, Mutex)
+- CAN Protocol (Automotive Communication)
+- EV Systems (BMS, VCU)
+- Motor Control & PWM
+- Fault Handling & Safety Logic
